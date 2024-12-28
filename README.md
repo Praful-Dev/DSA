@@ -8,7 +8,7 @@ To install DSA in C++, you need to have C++ installed on your system. You can do
 To use DSA in C++, you need to have a C++ compiler installed on your system. You can download C++ from Official website.
 
 ## Contributing
-If you want to contribute to DSA in C++, you can fork the repository and submit a pull request.
+If you want to contribute to DSA in C++, you can fork the repository and submit a pull request, Just Kidding.
 
 ## License
 DSA in C++ is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).

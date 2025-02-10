@@ -1,11 +1,13 @@
 # DSA
 Learning DSA in C++
+1.first file is cpp - code file
+2.second file is exe - executable file
 
 ## Installation
-To install DSA in C++, you need to have C++ installed on your system. You can download C++ from Official website.
+To Learn DSA in C++, you need to have C++ installed on your system. You can download C++ from Official website.
 
 ## Usage
-To use DSA in C++, you need to have a C++ compiler installed on your system. You can download C++ from Official website.
+To use C++ in DSA, you need to have a C++ compiler installed on your system. You can download C++ from Official website.
 
 ## Contributing
 If you want to contribute to DSA in C++, you can fork the repository and submit a pull request, Just Kidding.
